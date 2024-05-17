@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyGithubUser</string>
+
+    <string name="github_username">Github username</string>
+    <string name="searchbar_hint">Masukkan User Name</string>
+    <string name="error_message">User Not Found</string>
+    <string name="full_name">Full name</string>
+    <string name="user_name">user name</string>
+    <string name="follower">followers</string>
+    <string name="following">following</string>
+    <string name="tv_following">123</string>
+    <string name="tv_follower">123</string>
+    <string name="ini_fragment_following">ini fragment following</string>
+    <string name="ini_fragment_follower">ini fragment follower</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="icon_favorite">icon_Favorite</string>
+    <string name="favorite_menu">Favorite Menu</string>
+    <string name="favorite_user">Favorite Users</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="icon_splash">icon_splash</string>
+</resources>
